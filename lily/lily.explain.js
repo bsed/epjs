@@ -1,5 +1,4 @@
 /*
- * fengsm,yuanlin 2014-03-28
  * 温馨提示信息
 */
 (function( $, undefined ) {
