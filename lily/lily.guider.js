@@ -1,8 +1,6 @@
 /**
  * jQuery guider - v1.0
  * auth: shenmq
- * E-mail: shenmq@yuchengtech.com
- * website: shenmq.github.com
  */
  
 (function($, undefined) {
