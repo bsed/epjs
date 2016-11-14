@@ -1,8 +1,5 @@
 /**
  * jQuery initializer - v1.0
- * auth: shenmq
- * E-mail: shenmq@yuchengtech.com
- * website: shenmq.github.com
  */
 
 
